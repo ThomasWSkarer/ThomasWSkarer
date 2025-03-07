@@ -1,8 +1,19 @@
-### Thomas Wærenskjold Skårer 👋
-
+# It's me!
 ## Who?
-I'm a current computer engineer student at NTNU
+My name is Thomas, I am currently a Computer Science student at NTNU. I'm a big fan of coding, like having projects and explore the world of computers. 
 
+Currently I work at my campus as a coodinator / leader for 1st line support. 
+
+# Programming
+Programming is one of my favorite activities, some of the langauges I use are:
+- Java
+- Python
+- Go
+- C#
+- JS
+- C/C++
+
+# 
 
 <!--
 **ThomasWSkaarer/ThomasWSkaarer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
